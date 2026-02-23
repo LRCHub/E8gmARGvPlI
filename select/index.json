@@ -1,136 +1,88 @@
 {
   "version": 1,
-  "base_track": "Last Christmas",
-  "base_artist": "ワム！",
-  "createdAt": "2025-12-13T18:37:37.913898Z",
+  "base_track": "ラスト・クリスマス",
+  "base_artist": "Wham!",
+  "createdAt": "2026-02-23T18:48:23.381341Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "Last Christmas",
-      "artist": "Metro Station",
+      "title": "ラスト・クリスマス 〜 赤鼻のトナカイ - BLACKPINK ARENA TOUR 2018 \"SPECIAL FINAL IN KYOCERA DOME OSAKA\"",
+      "artist": "BLACKPINK",
       "has_synced": true,
-      "path": "select/01_Last_Christmas_Metro_Station.lrc"
+      "path": "select/01_ラスト・クリスマス_〜_赤鼻のトナカイ_-_BLACKPINK_ARENA_TOUR_2018__SPECIAL_FINAL_IN_KYOCERA_DOME_O_BLACKPINK.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Last Christmas",
-      "artist": "Ariana Grande",
+      "title": "ラスト・クリスマス ～ 赤鼻のトナカイ ( BLACKPINK ARENA TOUR 2018 \"SPECIAL FINAL IN KYOCERA DOME OSAKA\")",
+      "artist": "BLACKPINK",
       "has_synced": true,
-      "path": "select/02_Last_Christmas_Ariana_Grande.lrc"
+      "path": "select/02_ラスト・クリスマス_~_赤鼻のトナカイ_(_BLACKPINK_ARENA_TOUR_2018__SPECIAL_FINAL_IN_KYOCERA_DOME_O_BLACKPINK.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "Last Christmas",
-      "artist": "Wham!",
+      "title": "ラスト・クリスマス ~ 赤鼻のトナカイ",
+      "artist": "BLACKPINK",
       "has_synced": true,
-      "path": "select/03_Last_Christmas_Wham!.lrc"
+      "path": "select/03_ラスト・クリスマス_~_赤鼻のトナカイ_BLACKPINK.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "Last Christmas",
-      "artist": "The Puppini Sisters",
-      "has_synced": true,
-      "path": "select/04_Last_Christmas_The_Puppini_Sisters.lrc"
+      "title": "ラスト・クリスマス (Last Christmas)",
+      "artist": "Cano Caoli",
+      "has_synced": false,
+      "path": "select/04_ラスト・クリスマス_(Last_Christmas)_Cano_Caoli.txt"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "Last Christmas",
-      "artist": "Wham!",
-      "has_synced": true,
-      "path": "select/05_Last_Christmas_Wham!.lrc"
+      "title": "ラスト・クリスマス (Last Christmas)",
+      "artist": "Cano, Caoli",
+      "has_synced": false,
+      "path": "select/05_ラスト・クリスマス_(Last_Christmas)_Cano,_Caoli.txt"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "Last Christmas - Pudding Mix",
-      "artist": "Wham!",
-      "has_synced": true,
-      "path": "select/06_Last_Christmas_-_Pudding_Mix_Wham!.lrc"
+      "title": "ラスト・クリスマス",
+      "artist": "Soul To The World",
+      "has_synced": false,
+      "path": "select/06_ラスト・クリスマス_Soul_To_The_World.txt"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "Last Christmas",
-      "artist": "Good Charlotte",
-      "has_synced": true,
-      "path": "select/07_Last_Christmas_Good_Charlotte.lrc"
+      "title": "ラスト・ クリスマス",
+      "artist": "Dario Daneluz",
+      "has_synced": false,
+      "path": "select/07_ラスト・_クリスマス_Dario_Daneluz.txt"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "Last Christmas",
-      "artist": "Ariana Grande",
+      "title": "ラスト・クリスマス / 赤鼻のトナカイ (Live)",
+      "artist": "BLACKPINK",
       "has_synced": true,
-      "path": "select/08_Last_Christmas_Ariana_Grande.lrc"
+      "path": "select/08_ラスト・クリスマス___赤鼻のトナカイ_(Live)_BLACKPINK.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "Last Christmas",
-      "artist": "Taylor Swift",
+      "title": "ラスト・クリスマス ~ 赤鼻のトナカイ (BLACKPINK ARENA TOUR 2018 \"SPECIAL FINAL IN KYOCERA DOME OSAKA\")",
+      "artist": "BLACKPINK",
       "has_synced": true,
-      "path": "select/09_Last_Christmas_Taylor_Swift.lrc"
+      "path": "select/09_ラスト・クリスマス_~_赤鼻のトナカイ_(BLACKPINK_ARENA_TOUR_2018__SPECIAL_FINAL_IN_KYOCERA_DOME_OS_BLACKPINK.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "The Last Christmas Without You",
-      "artist": "Sixpence None the Richer",
+      "title": "ラスト・クリスマス ～ 赤鼻のトナカイ",
+      "artist": "BLACKPINK",
       "has_synced": true,
-      "path": "select/10_The_Last_Christmas_Without_You_Sixpence_None_the_Richer.lrc"
-    },
-    {
-      "id": "lrclib_11",
-      "source": "lrclib",
-      "title": "Last Christmas",
-      "artist": "Sixpence None the Richer",
-      "has_synced": true,
-      "path": "select/11_Last_Christmas_Sixpence_None_the_Richer.lrc"
-    },
-    {
-      "id": "lrclib_12",
-      "source": "lrclib",
-      "title": "Last Christmas",
-      "artist": "Gwen Stefani",
-      "has_synced": true,
-      "path": "select/12_Last_Christmas_Gwen_Stefani.lrc"
-    },
-    {
-      "id": "lrclib_13",
-      "source": "lrclib",
-      "title": "Last Christmas",
-      "artist": "Hilary Duff",
-      "has_synced": true,
-      "path": "select/13_Last_Christmas_Hilary_Duff.lrc"
-    },
-    {
-      "id": "lrclib_14",
-      "source": "lrclib",
-      "title": "Last Christmas - Single Version",
-      "artist": "Wham!",
-      "has_synced": true,
-      "path": "select/14_Last_Christmas_-_Single_Version_Wham!.lrc"
-    },
-    {
-      "id": "lrclib_15",
-      "source": "lrclib",
-      "title": "Last Christmas (Single Version)",
-      "artist": "Wham!",
-      "has_synced": true,
-      "path": "select/15_Last_Christmas_(Single_Version)_Wham!.lrc"
-    },
-    {
-      "id": "lrclib_16",
-      "source": "lrclib",
-      "title": "Last Christmas",
-      "artist": "Carly Rae Jepsen",
-      "has_synced": true,
-      "path": "select/16_Last_Christmas_Carly_Rae_Jepsen.lrc"
+      "path": "select/10_ラスト・クリスマス_~_赤鼻のトナカイ_BLACKPINK.lrc"
     },
     {
       "id": "petitlyrics_1",
